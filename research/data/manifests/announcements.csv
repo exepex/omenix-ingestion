@@ -7974,3 +7974,5 @@ date,url,status,sha256,size_bytes
 2026-10-30,https://www.nseindia.com/api/corporate-announcements?index=equities&from_date=30-10-2026&to_date=30-10-2026,200,c3701bad4cddcafbea88987b393ea02f2ef30d970c12fb93b2abf0c55db488f8,666675
 2026-10-31,https://www.nseindia.com/api/corporate-announcements?index=equities&from_date=31-10-2026&to_date=31-10-2026,200,7832b19260cf1232d252039e6fd3c4c521be41328216678ae6b8ddaadbd08efa,332244
 2026-11-01,https://www.nseindia.com/api/corporate-announcements?index=equities&from_date=01-11-2026&to_date=01-11-2026,200,673246986685b59cf84e236ad576c483f6b45b7907d9d9dc51e6f779654052fe,74564
+2026-11-02,https://www.nseindia.com/api/corporate-announcements?index=equities&from_date=02-11-2026&to_date=02-11-2026,200,343452c46e003c2ff9c58e8ff5e33eb42c5d9fbefba70873e32130d4eff117fa,625926
+2026-11-03,https://www.nseindia.com/api/corporate-announcements?index=equities&from_date=03-11-2026&to_date=03-11-2026,200,19013f021c0f24c2cb499c2e075c1e33e1d685cc1302f9a81081835ef905e3fd,795278
