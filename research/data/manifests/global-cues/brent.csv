@@ -74,3 +74,4 @@ fetched_at,path,url,form,sha256,size_bytes
 2026-11-10T10:07:43.115930+05:30,eia/petroleum/brent-spot-daily/2026/11/10/100743_RBRTED.htm,https://www.eia.gov/dnav/pet/hist/RBRTED.htm,,5b4723ec569d9c24c0b049abaf162b0883b9425fec0621bd88f75849c9f75e31,453269
 2026-11-10T22:05:42.204834+05:30,eia/petroleum/brent-spot-daily/2026/11/10/220542_RBRTED.htm,https://www.eia.gov/dnav/pet/hist/RBRTED.htm,,5b4723ec569d9c24c0b049abaf162b0883b9425fec0621bd88f75849c9f75e31,453269
 2026-11-11T07:25:40.983039+05:30,eia/petroleum/brent-spot-daily/2026/11/11/072540_RBRTED.htm,https://www.eia.gov/dnav/pet/hist/RBRTED.htm,,48d6132ab721d4f24d707d1f37a1c32d6d691f76a1b38a427a7ca30cc7fb36b6,454287
+2026-11-11T08:17:17.461902+05:30,eia/petroleum/brent-spot-daily/2026/11/11/081717_RBRTED.htm,https://www.eia.gov/dnav/pet/hist/RBRTED.htm,,5b4723ec569d9c24c0b049abaf162b0883b9425fec0621bd88f75849c9f75e31,453269
