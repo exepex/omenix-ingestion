@@ -7983,3 +7983,5 @@ date,url,status,sha256,size_bytes
 2026-11-08,https://www.nseindia.com/api/corporate-board-meetings?index=equities&from_date=08-11-2026&to_date=08-11-2026,200,4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945,2
 2026-11-09,https://www.nseindia.com/api/corporate-board-meetings?index=equities&from_date=09-11-2026&to_date=09-11-2026,200,ca6504e7078855c36119dd7cd4fa9c19f0a79e3d4a3a4f562ef2f8ae02a695d3,9930
 2026-11-10,https://www.nseindia.com/api/corporate-board-meetings?index=equities&from_date=10-11-2026&to_date=10-11-2026,200,387d97691552c2549bb71687502175647ce46f521624f6be8421e63069364c16,37807
+2026-11-11,https://www.nseindia.com/api/corporate-board-meetings?index=equities&from_date=11-11-2026&to_date=11-11-2026,200,3f29d2942d6c83da8a760e4a719fddc80aa16a0b8deb5a9e770d8b6a91f2871b,82886
+2026-11-12,https://www.nseindia.com/api/corporate-board-meetings?index=equities&from_date=12-11-2026&to_date=12-11-2026,200,45f3d252b05a75330bb825f5e28796f75b7ac4450626e9aac493cb9506d6935f,328098
