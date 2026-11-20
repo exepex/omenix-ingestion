@@ -2,3 +2,5 @@ at,source,event,cool_down_seconds
 2026-11-20T03:10:13.553733+00:00,paced:cdn.cboe.com,opened,900.0
 2026-11-20T03:58:42.560208+00:00,paced:cdn.cboe.com,half_open,900.0
 2026-11-20T03:58:42.714892+00:00,paced:cdn.cboe.com,reopened,1800.0
+2026-11-20T17:13:37.828655+00:00,paced:cdn.cboe.com,half_open,1800.0
+2026-11-20T17:13:37.984829+00:00,paced:cdn.cboe.com,reopened,3600.0
