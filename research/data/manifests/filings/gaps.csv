@@ -1,6 +1,4 @@
 symbol,kind,reason
-360ONE,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1552884_17102025081540_WEB.xml
-360ONE,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1552883_17102025081411_WEB.xml
 360ONE,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1601684_15012026053319_WEB.xml
 360ONE,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1601687_15012026053612_WEB.xml
 360ONE,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1601678_15012026052807_WEB.xml
@@ -59,7 +57,6 @@ AAVAS,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside it
 AAVAS,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1663797_05052026070121_WEB.xml
 AAVAS,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1698767_21072026071202_WEB.xml
 AAVAS,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1746216_26102026072928_WEB.xml
-AAVAS,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552497_17102025062333_WEB.xml
 AAVAS,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606271_20012026072621_WEB.xml
 AAVAS,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653501_17042026062759_WEB.xml
 AAVAS,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689981_09072026061648_WEB.xml
@@ -78,8 +75,8 @@ ABB,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL f
 ABB,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653405_17042026054202_WEB.xml
 ABB,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1719755_01092026025725_WEB.xml
 ABB,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738844_15102026034007_WEB.xml
-ABBOTINDIA,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-17
-ABBOTINDIA,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-17
+ABBOTINDIA,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-18
+ABBOTINDIA,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-18
 ABCAPITAL,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1562098_30102025080139_WEB.xml
 ABCAPITAL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1562097_30102025080112_WEB.xml
 ABCAPITAL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1617383_03022026062443_WEB.xml
@@ -179,14 +176,11 @@ ACMESOLAR,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 ACMESOLAR,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1704545_29072026082735_WEB.xml
 ACMESOLAR,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748336_28102026095516_WEB.xml
 ACMESOLAR,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748335_28102026095431_WEB.xml
-ACMESOLAR,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552940_17102025090755_WEB.xml
 ACMESOLAR,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605538_20012026035225_WEB.xml
 ACMESOLAR,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655558_20042026074403_WEB.xml
 ACMESOLAR,shareholding-xbrl,NSE's link for the 2026-06-04 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1681336_13062026123013_WEB.xml
 ACMESOLAR,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697407_20072026065935_WEB.xml
 ACMESOLAR,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741955_19102026070634_WEB.xml
-ACUTAAS,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552694_17102025070501_WEB.xml
-ACUTAAS,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552688_17102025070400_WEB.xml
 ACUTAAS,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1611990_28012026060920_WEB.xml
 ACUTAAS,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1611989_28012026060912_WEB.xml
 ACUTAAS,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1662486_30042026070517_WEB.xml
@@ -299,7 +293,6 @@ AEGISLOG,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 AEGISLOG,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1708829_06082026123436_WEB.xml
 AEGISLOG,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1746251_26102026074934_WEB.xml
 AEGISLOG,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1746238_26102026074306_WEB.xml
-AEGISLOG,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551983_17102025042716_WEB.xml
 AEGISLOG,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603763_19012026115718_WEB.xml
 AEGISLOG,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650289_14042026103408_WEB.xml
 AEGISLOG,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697751_21072026110533_WEB.xml
@@ -335,7 +328,6 @@ AETHER,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 AETHER,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1705882_31072026021107_WEB.xml
 AETHER,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749690_30102026014219_WEB.xml
 AETHER,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749689_30102026013956_WEB.xml
-AETHER,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1568752_07112025113003_WEB.xml
 AETHER,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596042_07012026032841_WEB.xml
 AETHER,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649665_13042026020159_WEB.xml
 AETHER,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691554_13072026051246_WEB.xml
@@ -352,7 +344,6 @@ AFCONS,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 AFCONS,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709954_07082026055812_WEB.xml
 AFCONS,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753156_04112026083311_WEB.xml
 AFCONS,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753155_04112026083305_WEB.xml
-AFCONS,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551813_17102025034345_WEB.xml
 AFCONS,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604360_19012026044812_WEB.xml
 AFCONS,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654683_20042026125127_WEB.xml
 AFCONS,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698053_21072026022729_WEB.xml
@@ -489,7 +480,6 @@ ANANTRAJ,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 ANANTRAJ,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1710524_08082026064900_WEB.xml
 ANANTRAJ,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748198_28102026075005_WEB.xml
 ANANTRAJ,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748196_28102026074954_WEB.xml
-ANANTRAJ,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551732_17102025032732_WEB.xml
 ANANTRAJ,shareholding-xbrl,NSE's link for the 2025-10-13 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1553156_18102025120728_WEB.xml
 ANANTRAJ,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597915_09012026072331_WEB.xml
 ANANTRAJ,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651038_15042026113817_WEB.xml
@@ -507,7 +497,6 @@ ANGELONE,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 ANGELONE,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1693485_15072026060814_WEB.xml
 ANGELONE,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1739190_15102026055725_WEB.xml
 ANGELONE,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1739182_15102026055626_WEB.xml
-ANGELONE,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552581_17102025064206_WEB.xml
 ANGELONE,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602956_16012026101251_WEB.xml
 ANGELONE,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692586_14072026064029_WEB.xml
 ANGELONE,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694660_16072026080533_WEB.xml
@@ -529,8 +518,6 @@ ANTHEM,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBR
 ANTHEM,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655577_20042026075836_WEB.xml
 ANTHEM,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695787_17072026084356_WEB.xml
 ANTHEM,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736823_13102026025758_WEB.xml
-ANURAS,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552625_17102025064757_WEB.xml
-ANURAS,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552620_17102025064716_WEB.xml
 ANURAS,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1626076_14022026052632_WEB.xml
 ANURAS,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1626072_14022026052309_WEB.xml
 ANURAS,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1672163_23052026115920_WEB.xml
@@ -571,7 +558,6 @@ APLAPOLLO,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 APLAPOLLO,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1706579_01082026040406_WEB.xml
 APLAPOLLO,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1746046_26102026055540_WEB.xml
 APLAPOLLO,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1746041_26102026055429_WEB.xml
-APLAPOLLO,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551886_17102025040159_WEB.xml
 APLAPOLLO,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598040_10012026115141_WEB.xml
 APLAPOLLO,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651360_15042026040250_WEB.xml
 APLAPOLLO,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698262_21072026040733_WEB.xml
@@ -663,7 +649,6 @@ ASHOKLEY,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 ASHOKLEY,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1714905_14082026065418_WEB.xml
 ASHOKLEY,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1758732_14112026091104_WEB.xml
 ASHOKLEY,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1758726_14112026090901_WEB.xml
-ASHOKLEY,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552068_17102025044745_WEB.xml
 ASHOKLEY,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1612779_29012026025157_WEB.xml
 ASHOKLEY,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656064_21042026023508_WEB.xml
 ASHOKLEY,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697453_20072026072032_WEB.xml
@@ -696,7 +681,6 @@ ASTERDM,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsid
 ASTERDM,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1708587_05082026071121_WEB.xml
 ASTERDM,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1755067_06112026071834_WEB.xml
 ASTERDM,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1755065_06112026071821_WEB.xml
-ASTERDM,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552148_17102025050712_WEB.xml
 ASTERDM,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601092_14012026064727_WEB.xml
 ASTERDM,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656380_21042026050845_WEB.xml
 ASTERDM,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695732_17072026074455_WEB.xml
@@ -737,14 +721,11 @@ ATHERENERG,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 ATHERENERG,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1706934_03082026040406_WEB.xml
 ATHERENERG,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1745733_26102026030758_WEB.xml
 ATHERENERG,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1745728_26102026030610_WEB.xml
-ATHERENERG,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552333_17102025054913_WEB.xml
 ATHERENERG,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603556_17012026083810_WEB.xml
 ATHERENERG,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655024_20042026042334_WEB.xml
 ATHERENERG,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690687_10072026062802_WEB.xml
 ATHERENERG,shareholding-xbrl,NSE's link for the 2026-07-20 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1703091_28072026045841_WEB.xml
 ATHERENERG,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739029_15102026045742_WEB.xml
-ATUL,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1551863_17102025035733_WEB.xml
-ATUL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1551854_17102025035516_WEB.xml
 ATUL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609032_23012026031306_WEB.xml
 ATUL,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609027_23012026031128_WEB.xml
 ATUL,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1658542_24042026052020_WEB.xml
@@ -757,7 +738,6 @@ ATUL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL 
 ATUL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652785_17042026094733_WEB.xml
 ATUL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694134_16072026033857_WEB.xml
 ATUL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737735_14102026040258_WEB.xml
-AUBANK,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1552947_17102025092000_WEB.xml
 AUBANK,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1606307_20012026074908_WEB.xml
 AUBANK,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1659849_27042026112414_WEB.xml
 AUBANK,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1701649_25072026080712_WEB.xml
@@ -848,8 +828,8 @@ AZAD,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL 
 AZAD,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652217_16042026040631_WEB.xml
 AZAD,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693098_15072026031607_WEB.xml
 AZAD,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737385_14102026110317_WEB.xml
-BAGMANE,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-17
-BAGMANE,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-17
+BAGMANE,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-18
+BAGMANE,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-18
 BAJAJ-AUTO,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1568214_07112025055902_WEB.xml
 BAJAJ-AUTO,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1568210_07112025055820_WEB.xml
 BAJAJ-AUTO,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1614922_30012026061338_WEB.xml
@@ -902,7 +882,6 @@ BAJAJHLDNG,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 BAJAJHLDNG,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1706150_31072026055014_WEB.xml
 BAJAJHLDNG,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1752355_03112026110746_WEB.xml
 BAJAJHLDNG,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1752354_03112026110730_WEB.xml
-BAJAJHLDNG,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552727_17102025071320_WEB.xml
 BAJAJHLDNG,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607089_21012026041445_WEB.xml
 BAJAJHLDNG,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655461_20042026070155_WEB.xml
 BAJAJHLDNG,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1700036_23072026043850_WEB.xml
@@ -979,8 +958,6 @@ BANKBARODA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its
 BANKBARODA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647424_08042026045921_WEB.xml
 BANKBARODA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689248_08072026033602_WEB.xml
 BANKBARODA,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735143_09102026062755_WEB.xml
-BANKINDIA,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1552605_17102025064433_WEB.xml
-BANKINDIA,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1552593_17102025064333_WEB.xml
 BANKINDIA,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1607603_21012026070512_WEB.xml
 BANKINDIA,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1607600_21012026070406_WEB.xml
 BANKINDIA,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1665067_08052026074638_WEB.xml
@@ -1049,7 +1026,6 @@ BEL,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 BEL,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1702067_27072026043726_WEB.xml
 BEL,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750054_30102026052327_WEB.xml
 BEL,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750051_30102026052245_WEB.xml
-BEL,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552076_17102025045002_WEB.xml
 BEL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600893_14012026051202_WEB.xml
 BEL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652189_16042026034627_WEB.xml
 BEL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691499_13072026045050_WEB.xml
@@ -1190,8 +1166,8 @@ BIOCON,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBR
 BIOCON,shareholding-xbrl,NSE's link for the 2026-06-29 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687298_01072026054704_WEB.xml
 BIOCON,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697926_21072026125942_WEB.xml
 BIOCON,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743438_21102026070347_WEB.xml
-BIRET,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-17
-BIRET,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-17
+BIRET,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-18
+BIRET,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-18
 BLS,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1571581_11112025073541_WEB.xml
 BLS,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1571835_11112025102055_WEB.xml
 BLS,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1620288_06022026053617_WEB.xml
@@ -1217,7 +1193,6 @@ BLUESTARCO,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 BLUESTARCO,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709365_06082026074918_WEB.xml
 BLUESTARCO,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749053_29102026054251_WEB.xml
 BLUESTARCO,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749052_29102026054230_WEB.xml
-BLUESTARCO,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551185_17102025120104_WEB.xml
 BLUESTARCO,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1729642_28092026043201_WEB.xml
 BLUESTARCO,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1722966_09092026045606_WEB.xml
 BLUESTARCO,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1699615_22072026080442_WEB.xml
@@ -1264,7 +1239,6 @@ BRIGADE,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsid
 BRIGADE,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1714056_13082026081019_WEB.xml
 BRIGADE,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749418_29102026084017_WEB.xml
 BRIGADE,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749413_29102026083840_WEB.xml
-BRIGADE,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552752_17102025072013_WEB.xml
 BRIGADE,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602869_16012026074317_WEB.xml
 BRIGADE,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648242_09042026060158_WEB.xml
 BRIGADE,shareholding-xbrl,NSE's link for the 2026-06-18 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688115_04072026010121_WEB.xml
@@ -1311,7 +1285,6 @@ BSOFT,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside 
 BSOFT,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748208_28102026075131_WEB.xml
 BSOFT,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748212_28102026075216_WEB.xml
 BSOFT,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748216_28102026075328_WEB.xml
-BSOFT,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552450_17102025061327_WEB.xml
 BSOFT,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606016_20012026060414_WEB.xml
 BSOFT,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654480_20042026100553_WEB.xml
 BSOFT,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698627_21072026061914_WEB.xml
@@ -1393,7 +1366,6 @@ CARBORUNIV,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 CARBORUNIV,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709908_07082026053518_WEB.xml
 CARBORUNIV,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751480_02112026082949_WEB.xml
 CARBORUNIV,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751479_02112026082933_WEB.xml
-CARBORUNIV,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552745_17102025071831_WEB.xml
 CARBORUNIV,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607421_21012026060218_WEB.xml
 CARBORUNIV,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1679139_03062026115721_WEB.xml
 CARBORUNIV,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697761_21072026111336_WEB.xml
@@ -1451,8 +1423,6 @@ CDSL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL 
 CDSL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653425_17042026054648_WEB.xml
 CDSL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698727_21072026065645_WEB.xml
 CDSL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739584_16102026121818_WEB.xml
-CEATLTD,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552846_17102025075049_WEB.xml
-CEATLTD,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552775_17102025072614_WEB.xml
 CEATLTD,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1604714_19012026063704_WEB.xml
 CEATLTD,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1604704_19012026063506_WEB.xml
 CEATLTD,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1660712_28042026102831_WEB.xml
@@ -1483,8 +1453,6 @@ CEMPRO,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBR
 CEMPRO,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690337_10072026030637_WEB.xml
 CEMPRO,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735008_09102026050509_WEB.xml
 CEMPRO,shareholding-xbrl,NSE's link for the 2026-10-19 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1744487_23102026022417_WEB.xml
-CENTRALBK,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1552383_17102025060156_WEB.xml
-CENTRALBK,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1552380_17102025060122_WEB.xml
 CENTRALBK,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1602506_16012026051206_WEB.xml
 CENTRALBK,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1602502_16012026051108_WEB.xml
 CENTRALBK,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1662635_30042026090719_WEB.xml
@@ -1498,9 +1466,7 @@ CENTRALBK,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its 
 CENTRALBK,shareholding-xbrl,NSE's link for the 2026-05-27 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1674185_27052026062021_WEB.xml
 CENTRALBK,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696040_18072026024332_WEB.xml
 CENTRALBK,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739544_16102026114629_WEB.xml
-CESC,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552975_17102025101639_WEB.xml
 CESC,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1627231_17022026084325_WEB.xml
-CESC,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552990_17102025105715_WEB.xml
 CESC,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1627230_17022026083950_WEB.xml
 CESC,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1620608_06022026073712_WEB.xml
 CESC,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1620609_06022026073719_WEB.xml
@@ -1559,7 +1525,6 @@ CHAMBLFERT,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 CHAMBLFERT,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1705511_30072026064927_WEB.xml
 CHAMBLFERT,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752303_03112026092844_WEB.xml
 CHAMBLFERT,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752302_03112026092828_WEB.xml
-CHAMBLFERT,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552466_17102025061625_WEB.xml
 CHAMBLFERT,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606746_21012026010920_WEB.xml
 CHAMBLFERT,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656942_22042026094714_WEB.xml
 CHAMBLFERT,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694811_17072026111452_WEB.xml
@@ -1781,7 +1746,6 @@ CONCOR,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 CONCOR,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1701155_24072026065912_WEB.xml
 CONCOR,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751152_02112026050302_WEB.xml
 CONCOR,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751151_02112026045943_WEB.xml
-CONCOR,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551568_17102025023916_WEB.xml
 CONCOR,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606569_21012026112538_WEB.xml
 CONCOR,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656147_21042026031955_WEB.xml
 CONCOR,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697975_21072026012801_WEB.xml
@@ -1878,9 +1842,6 @@ CREDITACC,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its 
 CREDITACC,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1667556_15052026120107_WEB.xml
 CREDITACC,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693264_15072026043311_WEB.xml
 CREDITACC,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736521_13102026103700_WEB.xml
-CRISIL,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552772_17102025072553_WEB.xml
-CRISIL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552781_17102025072747_WEB.xml
-CRISIL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552873_17102025080815_WEB.xml
 CRISIL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1625723_13022026084922_WEB.xml
 CRISIL,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1625720_13022026084828_WEB.xml
 CRISIL,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1653630_17042026071544_WEB.xml
@@ -1906,7 +1867,6 @@ CROMPTON,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 CROMPTON,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709077_06082026050900_WEB.xml
 CROMPTON,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1742814_21102026031016_WEB.xml
 CROMPTON,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1740293_16102026062052_WEB.xml
-CROMPTON,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551552_17102025022914_WEB.xml
 CROMPTON,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604186_19012026034810_WEB.xml
 CROMPTON,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654768_20042026020548_WEB.xml
 CROMPTON,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696472_20072026115649_WEB.xml
@@ -1979,13 +1939,10 @@ DABUR,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside it
 DABUR,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752836_04112026060649_WEB.xml
 DABUR,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752823_04112026060315_WEB.xml
 DABUR,shareholding-xbrl,NSE's link for the 2025-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599930_13012026045911_WEB.xml
-DABUR,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552307_17102025054555_WEB.xml
 DABUR,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606077_20012026062030_WEB.xml
 DABUR,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1663304_04052026053152_WEB.xml
 DABUR,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694429_16072026055059_WEB.xml
 DABUR,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739859_16102026033110_WEB.xml
-DALBHARAT,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1551511_17102025020854_WEB.xml
-DALBHARAT,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1551516_17102025020951_WEB.xml
 DALBHARAT,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1606970_21012026033216_WEB.xml
 DALBHARAT,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1606971_21012026033225_WEB.xml
 DALBHARAT,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1660226_28042026041720_WEB.xml
@@ -2007,7 +1964,6 @@ DATAPATTNS,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outsi
 DATAPATTNS,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1705579_30072026073400_WEB.xml
 DATAPATTNS,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1755162_06112026083256_WEB.xml
 DATAPATTNS,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1755160_06112026083251_WEB.xml
-DATAPATTNS,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551619_17102025030046_WEB.xml
 DATAPATTNS,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607002_21012026034347_WEB.xml
 DATAPATTNS,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652314_16042026044652_WEB.xml
 DATAPATTNS,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694399_16072026053327_WEB.xml
@@ -2053,7 +2009,6 @@ DELHIVERY,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 DELHIVERY,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1710512_08082026061314_WEB.xml
 DELHIVERY,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750274_30102026064310_WEB.xml
 DELHIVERY,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750298_30102026065035_WEB.xml
-DELHIVERY,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552960_17102025094638_WEB.xml
 DELHIVERY,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606141_20012026064255_WEB.xml
 DELHIVERY,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653438_17042026055312_WEB.xml
 DELHIVERY,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696616_20072026014531_WEB.xml
@@ -2090,8 +2045,6 @@ DIVISLAB,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its X
 DIVISLAB,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650975_15042026085225_WEB.xml
 DIVISLAB,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695062_17072026025119_WEB.xml
 DIVISLAB,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733233_06102026103802_WEB.xml
-DIXON,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552946_17102025091526_WEB.xml
-DIXON,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552943_17102025091435_WEB.xml
 DIXON,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1613517_29012026064329_WEB.xml
 DIXON,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1613516_29012026064256_WEB.xml
 DIXON,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1666286_12052026113823_WEB.xml
@@ -2100,7 +2053,6 @@ DIXON,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside 
 DIXON,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1706199_31072026061217_WEB.xml
 DIXON,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750473_30102026082202_WEB.xml
 DIXON,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750472_30102026082113_WEB.xml
-DIXON,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551590_17102025024833_WEB.xml
 DIXON,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606116_20012026063202_WEB.xml
 DIXON,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655186_20042026051901_WEB.xml
 DIXON,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695887_18072026112055_WEB.xml
@@ -2115,7 +2067,6 @@ DLF,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 DLF,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1707009_03082026051304_WEB.xml
 DLF,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1740287_16102026062004_WEB.xml
 DLF,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1740289_16102026062015_WEB.xml
-DLF,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552749_17102025071929_WEB.xml
 DLF,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602668_16012026060241_WEB.xml
 DLF,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646997_07042026090031_WEB.xml
 DLF,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688574_06072026065528_WEB.xml
@@ -2128,7 +2079,6 @@ DMART,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside 
 DMART,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1691005_11072026041116_WEB.xml
 DMART,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1735452_10102026050830_WEB.xml
 DMART,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1735453_10102026050835_WEB.xml
-DMART,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552650_17102025065518_WEB.xml
 DMART,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1664146_06052026064459_WEB.xml
 DMART,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656717_21042026072904_WEB.xml
 DMART,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692414_14072026052337_WEB.xml
@@ -2163,8 +2113,8 @@ DRREDDY,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XB
 DRREDDY,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698187_21072026033805_WEB.xml
 DRREDDY,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698407_21072026050510_WEB.xml
 DRREDDY,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742881_21102026034106_WEB.xml
-DUMMYHEG,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-17
-DUMMYHEG,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-17
+DUMMYHEG,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-18
+DUMMYHEG,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-18
 ECLERX,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1556667_24102025084725_WEB.xml
 ECLERX,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1556665_24102025084655_WEB.xml
 ECLERX,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1612157_28012026070225_WEB.xml
@@ -2193,7 +2143,6 @@ EICHERMOT,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 EICHERMOT,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1704491_29072026074859_WEB.xml
 EICHERMOT,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1758029_13112026094757_WEB.xml
 EICHERMOT,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1758031_13112026094809_WEB.xml
-EICHERMOT,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551806_17102025034303_WEB.xml
 EICHERMOT,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605377_20012026023931_WEB.xml
 EICHERMOT,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655434_20042026064729_WEB.xml
 EICHERMOT,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696639_20072026020840_WEB.xml
@@ -2208,7 +2157,6 @@ EIDPARRY,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 EIDPARRY,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1712855_12082026062631_WEB.xml
 EIDPARRY,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1757518_13112026053825_WEB.xml
 EIDPARRY,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1757513_13112026053741_WEB.xml
-EIDPARRY,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551980_17102025042633_WEB.xml
 EIDPARRY,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605537_20012026035145_WEB.xml
 EIDPARRY,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1679695_05062026033432_WEB.xml
 EIDPARRY,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1723581_11092026031058_WEB.xml
@@ -2250,7 +2198,6 @@ ELGIEQUIP,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outsid
 ELGIEQUIP,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754877_06112026052923_WEB.xml
 ELGIEQUIP,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754871_06112026052738_WEB.xml
 ELGIEQUIP,shareholding-xbrl,NSE's link for the 2025-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1726294_22092026024824_WEB.xml
-ELGIEQUIP,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552531_17102025063102_WEB.xml
 ELGIEQUIP,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606005_20012026060101_WEB.xml
 ELGIEQUIP,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650781_14042026054032_WEB.xml
 ELGIEQUIP,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694212_16072026041137_WEB.xml
@@ -2272,8 +2219,8 @@ EMAMILTD,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its X
 EMAMILTD,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654971_20042026035840_WEB.xml
 EMAMILTD,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695544_17072026055942_WEB.xml
 EMAMILTD,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737769_14102026041654_WEB.xml
-EMBASSY,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-17
-EMBASSY,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-17
+EMBASSY,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-18
+EMBASSY,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-18
 EMCURE,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1571105_11112025042805_WEB.xml
 EMCURE,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1571091_11112025042703_WEB.xml
 EMCURE,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1617872_04022026024609_WEB.xml
@@ -2330,7 +2277,6 @@ ENGINERSIN,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 ENGINERSIN,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1714062_13082026081410_WEB.xml
 ENGINERSIN,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750066_30102026052751_WEB.xml
 ENGINERSIN,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750061_30102026052700_WEB.xml
-ENGINERSIN,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551644_17102025030706_WEB.xml
 ENGINERSIN,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601412_15012026014231_WEB.xml
 ENGINERSIN,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652183_16042026034538_WEB.xml
 ENGINERSIN,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692204_14072026033843_WEB.xml
@@ -2448,7 +2394,6 @@ FIRSTCRY,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 FIRSTCRY,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1713945_13082026072319_WEB.xml
 FIRSTCRY,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1758588_14112026071801_WEB.xml
 FIRSTCRY,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1758592_14112026071855_WEB.xml
-FIRSTCRY,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551188_17102025120136_WEB.xml
 FIRSTCRY,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605421_20012026030349_WEB.xml
 FIRSTCRY,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1680710_10062026045528_WEB.xml
 FIRSTCRY,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694104_16072026032035_WEB.xml
@@ -2492,7 +2437,6 @@ FORCEMOT,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 FORCEMOT,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1704519_29072026080656_WEB.xml
 FORCEMOT,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748312_28102026092252_WEB.xml
 FORCEMOT,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748311_28102026092235_WEB.xml
-FORCEMOT,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552770_17102025072526_WEB.xml
 FORCEMOT,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600794_14012026043702_WEB.xml
 FORCEMOT,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651310_15042026033518_WEB.xml
 FORCEMOT,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694816_17072026111734_WEB.xml
@@ -2612,7 +2556,6 @@ GICRE,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside 
 GICRE,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_GI_1713417_13082026034943_WEB.xml
 GICRE,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_GI_1750476_30102026082433_WEB.xml
 GICRE,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_GI_1750474_30102026082326_WEB.xml
-GICRE,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551944_17102025041751_WEB.xml
 GICRE,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605418_20012026030235_WEB.xml
 GICRE,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654618_20042026121207_WEB.xml
 GICRE,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698286_21072026041543_WEB.xml
@@ -2740,7 +2683,6 @@ GODREJIND,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 GODREJIND,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1713961_13082026072559_WEB.xml
 GODREJIND,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1757721_13112026065524_WEB.xml
 GODREJIND,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1757528_13112026054240_WEB.xml
-GODREJIND,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552831_17102025074500_WEB.xml
 GODREJIND,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606220_20012026070943_WEB.xml
 GODREJIND,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655690_21042026101135_WEB.xml
 GODREJIND,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696878_20072026041613_WEB.xml
@@ -2803,7 +2745,6 @@ GRAPHITE,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 GRAPHITE,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1707424_04082026023348_WEB.xml
 GRAPHITE,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751800_03112026041343_WEB.xml
 GRAPHITE,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751799_03112026041323_WEB.xml
-GRAPHITE,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552871_17102025080548_WEB.xml
 GRAPHITE,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607221_21012026050226_WEB.xml
 GRAPHITE,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655302_20042026060448_WEB.xml
 GRAPHITE,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696478_20072026115941_WEB.xml
@@ -2869,7 +2810,6 @@ GVT&D,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside it
 GVT&D,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1668973_18052026085022_WEB.xml
 GVT&D,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1708727_05082026100914_WEB.xml
 GVT&D,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750101_30102026054335_WEB.xml
-GVT&D,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552047_17102025044358_WEB.xml
 GVT&D,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605384_20012026024430_WEB.xml
 GVT&D,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656166_21042026033416_WEB.xml
 GVT&D,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698055_21072026022731_WEB.xml
@@ -2888,8 +2828,6 @@ HAL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL f
 HAL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649503_13042026111255_WEB.xml
 HAL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690175_10072026114800_WEB.xml
 HAL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738658_15102026013209_WEB.xml
-HAVELLS,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552563_17102025063938_WEB.xml
-HAVELLS,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552560_17102025063915_WEB.xml
 HAVELLS,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1604887_19012026081432_WEB.xml
 HAVELLS,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1604881_19012026081338_WEB.xml
 HAVELLS,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1657416_22042026080632_WEB.xml
@@ -2928,7 +2866,6 @@ HCLTECH,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsid
 HCLTECH,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1691777_13072026072104_WEB.xml
 HCLTECH,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1736452_12102026073824_WEB.xml
 HCLTECH,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1736455_12102026074754_WEB.xml
-HCLTECH,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552479_17102025062028_WEB.xml
 HCLTECH,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602918_16012026083512_WEB.xml
 HCLTECH,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656872_21042026093835_WEB.xml
 HCLTECH,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696003_18072026013727_WEB.xml
@@ -2952,7 +2889,6 @@ HDFCAMC,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outsid
 HDFCAMC,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1739856_16102026032826_WEB.xml
 HDFCAMC,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1739196_15102026060240_WEB.xml
 HDFCAMC,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1739853_16102026032724_WEB.xml
-HDFCAMC,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551183_17102025120030_WEB.xml
 HDFCAMC,shareholding-xbrl,NSE's link for the 2025-11-27 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1583050_05122025022453_WEB.xml
 HDFCAMC,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603872_19012026125839_WEB.xml
 HDFCAMC,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651307_15042026033420_WEB.xml
@@ -3031,8 +2967,6 @@ HEXT,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL 
 HEXT,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655455_20042026065948_WEB.xml
 HEXT,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696890_20072026042305_WEB.xml
 HEXT,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739594_16102026122435_WEB.xml
-HFCL,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552760_17102025072224_WEB.xml
-HFCL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552757_17102025072200_WEB.xml
 HFCL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1617368_03022026061816_WEB.xml
 HFCL,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1617367_03022026061722_WEB.xml
 HFCL,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1662563_30042026075430_WEB.xml
@@ -3041,7 +2975,6 @@ HFCL,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 HFCL,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1699606_22072026075308_WEB.xml
 HFCL,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1741880_19102026062543_WEB.xml
 HFCL,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1741879_19102026062526_WEB.xml
-HFCL,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551288_17102025123308_WEB.xml
 HFCL,shareholding-xbrl,NSE's link for the 2025-12-24 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1591358_27122025092356_WEB.xml
 HFCL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603586_18012026122946_WEB.xml
 HFCL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654467_19042026105442_WEB.xml
@@ -3087,7 +3020,6 @@ HINDPETRO,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 HINDPETRO,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1699620_22072026081414_WEB.xml
 HINDPETRO,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1744295_22102026101224_WEB.xml
 HINDPETRO,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1744294_22102026101128_WEB.xml
-HINDPETRO,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552562_17102025063935_WEB.xml
 HINDPETRO,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599911_13012026045225_WEB.xml
 HINDPETRO,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647924_09042026030907_WEB.xml
 HINDPETRO,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695181_17072026035547_WEB.xml
@@ -3107,8 +3039,6 @@ HINDUNILVR,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its
 HINDUNILVR,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654510_20042026110214_WEB.xml
 HINDUNILVR,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697830_21072026121013_WEB.xml
 HINDUNILVR,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742125_19102026102752_WEB.xml
-HINDZINC,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552432_17102025060922_WEB.xml
-HINDZINC,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552420_17102025060754_WEB.xml
 HINDZINC,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1604627_19012026061223_WEB.xml
 HINDZINC,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1604626_19012026061216_WEB.xml
 HINDZINC,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1658600_24042026060113_WEB.xml
@@ -3157,8 +3087,6 @@ HONAUT,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBR
 HONAUT,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655969_21042026012937_WEB.xml
 HONAUT,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696624_20072026015542_WEB.xml
 HONAUT,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734704_09102026122756_WEB.xml
-HSCL,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552915_17102025084734_WEB.xml
-HSCL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552913_17102025084702_WEB.xml
 HSCL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602505_16012026051203_WEB.xml
 HSCL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602950_16012026095228_WEB.xml
 HSCL,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602501_16012026051044_WEB.xml
@@ -3265,7 +3193,6 @@ IDEA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 IDEA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1711355_10082026075048_WEB.xml
 IDEA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756895_12112026073440_WEB.xml
 IDEA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756888_12112026073337_WEB.xml
-IDEA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552207_17102025052135_WEB.xml
 IDEA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606823_21012026021113_WEB.xml
 IDEA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648696_10042026032828_WEB.xml
 IDEA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698353_21072026044315_WEB.xml
@@ -3314,7 +3241,6 @@ IFCI,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 IFCI,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1711906_11082026060420_WEB.xml
 IFCI,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1756848_12112026071608_WEB.xml
 IFCI,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1756846_12112026071458_WEB.xml
-IFCI,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552336_17102025055009_WEB.xml
 IFCI,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600462_14012026121701_WEB.xml
 IFCI,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651812_16042026102927_WEB.xml
 IFCI,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694043_16072026024916_WEB.xml
@@ -3344,7 +3270,6 @@ IGL,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 IGL,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1713498_13082026043454_WEB.xml
 IGL,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750504_30102026085002_WEB.xml
 IGL,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750503_30102026084908_WEB.xml
-IGL,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551085_17102025105429_WEB.xml
 IGL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596778_08012026041557_WEB.xml
 IGL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652308_16042026044507_WEB.xml
 IGL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694199_16072026040801_WEB.xml
@@ -3375,7 +3300,6 @@ IKS,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 IKS,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1708751_05082026104851_WEB.xml
 IKS,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754354_05112026103900_WEB.xml
 IKS,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754351_05112026103810_WEB.xml
-IKS,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551172_17102025115153_WEB.xml
 IKS,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604219_19012026035830_WEB.xml
 IKS,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652946_17042026010402_WEB.xml
 IKS,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695112_17072026032044_WEB.xml
@@ -3395,8 +3319,6 @@ INDHOTEL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its X
 INDHOTEL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656374_21042026050435_WEB.xml
 INDHOTEL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697682_20072026115559_WEB.xml
 INDHOTEL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742116_19102026094034_WEB.xml
-INDIACEM,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552914_17102025084716_WEB.xml
-INDIACEM,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552911_17102025084537_WEB.xml
 INDIACEM,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609224_23012026050126_WEB.xml
 INDIACEM,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609223_23012026050118_WEB.xml
 INDIACEM,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1659045_25042026092824_WEB.xml
@@ -3411,8 +3333,6 @@ INDIACEM,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its X
 INDIACEM,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656124_21042026030109_WEB.xml
 INDIACEM,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697048_20072026051425_WEB.xml
 INDIACEM,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737848_14102026044821_WEB.xml
-INDIAMART,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1553008_17102025113002_WEB.xml
-INDIAMART,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1553000_17102025111932_WEB.xml
 INDIAMART,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1606247_20012026071806_WEB.xml
 INDIAMART,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1606248_20012026071813_WEB.xml
 INDIAMART,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1662637_30042026090846_WEB.xml
@@ -3465,7 +3385,6 @@ INDUSINDBK,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outsi
 INDUSINDBK,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1744877_23102026062324_WEB.xml
 INDUSINDBK,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1744879_23102026062344_WEB.xml
 INDUSINDBK,shareholding-xbrl,NSE's link for the 2025-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597110_08012026092103_WEB.xml
-INDUSINDBK,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551898_17102025040607_WEB.xml
 INDUSINDBK,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601138_14012026071223_WEB.xml
 INDUSINDBK,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655219_20042026052917_WEB.xml
 INDUSINDBK,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695339_17072026045502_WEB.xml
@@ -3493,7 +3412,6 @@ INFY,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 INFY,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1700098_23072026054118_WEB.xml
 INFY,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1745058_23102026082117_WEB.xml
 INFY,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1745057_23102026082111_WEB.xml
-INFY,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552953_17102025093815_WEB.xml
 INFY,shareholding-xbrl,NSE's link for the 2025-12-04 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1584868_11122025040253_WEB.xml
 INFY,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603602_18012026053756_WEB.xml
 INFY,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652323_16042026045034_WEB.xml
@@ -3576,7 +3494,6 @@ IOC,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 IOC,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1706254_31072026064318_WEB.xml
 IOC,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750285_30102026064816_WEB.xml
 IOC,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750292_30102026064915_WEB.xml
-IOC,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551755_17102025033338_WEB.xml
 IOC,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603909_19012026011258_WEB.xml
 IOC,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651927_16042026120704_WEB.xml
 IOC,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689515_09072026094714_WEB.xml
@@ -3605,7 +3522,6 @@ IRB,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 IRB,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1705136_30072026041419_WEB.xml
 IRB,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753433_05112026020528_WEB.xml
 IRB,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753432_05112026020416_WEB.xml
-IRB,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551895_17102025040534_WEB.xml
 IRB,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607124_21012026042845_WEB.xml
 IRB,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649069_10042026064643_WEB.xml
 IRB,shareholding-xbrl,NSE's link for the 2026-04-02 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649127_10042026073125_WEB.xml
@@ -3770,8 +3686,6 @@ JBMA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL 
 JBMA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650230_13042026081938_WEB.xml
 JBMA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687886_03072026062257_WEB.xml
 JBMA,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734556_08102026070426_WEB.xml
-JINDALSAW,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1551726_17102025032513_WEB.xml
-JINDALSAW,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1551713_17102025032250_WEB.xml
 JINDALSAW,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602491_16012026050513_WEB.xml
 JINDALSAW,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602492_16012026050518_WEB.xml
 JINDALSAW,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1659625_27042026063427_WEB.xml
@@ -3844,7 +3758,6 @@ JKTYRE,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 JKTYRE,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709724_07082026040440_WEB.xml
 JKTYRE,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1745046_23102026081519_WEB.xml
 JKTYRE,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1745051_23102026081547_WEB.xml
-JKTYRE,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551339_17102025125204_WEB.xml
 JKTYRE,shareholding-xbrl,NSE's link for the 2025-12-26 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1593532_31122025041941_WEB.xml
 JKTYRE,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605368_20012026023345_WEB.xml
 JKTYRE,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654841_20042026030150_WEB.xml
@@ -3912,8 +3825,6 @@ JSWCEMENT,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its 
 JSWCEMENT,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655394_20042026064035_WEB.xml
 JSWCEMENT,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697999_21072026014101_WEB.xml
 JSWCEMENT,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743380_21102026063448_WEB.xml
-JSWENERGY,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552583_17102025064217_WEB.xml
-JSWENERGY,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552591_17102025064304_WEB.xml
 JSWENERGY,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609540_23012026070626_WEB.xml
 JSWENERGY,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609530_23012026070358_WEB.xml
 JSWENERGY,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1665718_11052026083347_WEB.xml
@@ -3944,8 +3855,6 @@ JSWINFRA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its X
 JSWINFRA,shareholding-xbrl,NSE's link for the 2026-06-26 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687880_03072026061739_WEB.xml
 JSWINFRA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698798_21072026072116_WEB.xml
 JSWINFRA,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741119_19102026103627_WEB.xml
-JSWSTEEL,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552182_17102025051526_WEB.xml
-JSWSTEEL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552172_17102025051308_WEB.xml
 JSWSTEEL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609163_23012026043816_WEB.xml
 JSWSTEEL,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1609168_23012026043916_WEB.xml
 JSWSTEEL,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1667305_14052026073923_WEB.xml
@@ -3969,7 +3878,6 @@ JUBLFOOD,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 JUBLFOOD,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1713491_13082026042914_WEB.xml
 JUBLFOOD,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754883_06112026053355_WEB.xml
 JUBLFOOD,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754882_06112026053350_WEB.xml
-JUBLFOOD,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551929_17102025041353_WEB.xml
 JUBLFOOD,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603748_19012026114031_WEB.xml
 JUBLFOOD,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654483_20042026101527_WEB.xml
 JUBLFOOD,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696717_20072026030416_WEB.xml
@@ -4047,7 +3955,6 @@ KALYANKJIL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its
 KALYANKJIL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648432_10042026105842_WEB.xml
 KALYANKJIL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693358_15072026051405_WEB.xml
 KALYANKJIL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736765_13102026015914_WEB.xml
-KARURVYSYA,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1552827_17102025074207_WEB.xml
 KARURVYSYA,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1609156_23012026043333_WEB.xml
 KARURVYSYA,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1664579_07052026065729_WEB.xml
 KARURVYSYA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1697532_20072026080218_WEB.xml
@@ -4147,7 +4054,6 @@ KIRLOSBROS,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 KIRLOSBROS,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1706067_31072026050607_WEB.xml
 KIRLOSBROS,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747021_27102026061837_WEB.xml
 KIRLOSBROS,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747016_27102026061708_WEB.xml
-KIRLOSBROS,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551772_17102025033619_WEB.xml
 KIRLOSBROS,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606268_20012026072528_WEB.xml
 KIRLOSBROS,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651567_15042026055943_WEB.xml
 KIRLOSBROS,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695457_17072026053416_WEB.xml
@@ -4192,7 +4098,6 @@ KPIL,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 KPIL,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1711739_11082026044940_WEB.xml
 KPIL,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754310_05112026094249_WEB.xml
 KPIL,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754309_05112026094244_WEB.xml
-KPIL,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552899_17102025083345_WEB.xml
 KPIL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606405_20012026091905_WEB.xml
 KPIL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652683_16042026074959_WEB.xml
 KPIL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695473_17072026053831_WEB.xml
@@ -4237,7 +4142,6 @@ KSB,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 KSB,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1708059_04082026110624_WEB.xml
 KSB,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752148_03112026072659_WEB.xml
 KSB,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752147_03112026072653_WEB.xml
-KSB,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552283_17102025053853_WEB.xml
 KSB,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606685_21012026124046_WEB.xml
 KSB,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655154_20042026050814_WEB.xml
 KSB,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697984_21072026013349_WEB.xml
@@ -4269,7 +4173,6 @@ LAURUSLABS,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 LAURUSLABS,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1701039_24072026060415_WEB.xml
 LAURUSLABS,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749479_29102026095923_WEB.xml
 LAURUSLABS,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749478_29102026095827_WEB.xml
-LAURUSLABS,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552639_17102025065239_WEB.xml
 LAURUSLABS,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606487_21012026102425_WEB.xml
 LAURUSLABS,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655519_20042026072131_WEB.xml
 LAURUSLABS,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698821_21072026073746_WEB.xml
@@ -4338,7 +4241,6 @@ LICI,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 LICI,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_LI_1709121_06082026053521_WEB.xml
 LICI,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_LI_1753953_05112026064508_WEB.xml
 LICI,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_LI_1753945_05112026064353_WEB.xml
-LICI,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552944_17102025091455_WEB.xml
 LICI,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602507_16012026051241_WEB.xml
 LICI,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655693_21042026101703_WEB.xml
 LICI,shareholding-xbrl,NSE's link for the 2026-06-01 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1680152_08062026022605_WEB.xml
@@ -4371,7 +4273,6 @@ LLOYDSME,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside
 LLOYDSME,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752162_03112026073526_WEB.xml
 LLOYDSME,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752149_03112026072720_WEB.xml
 LLOYDSME,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752171_03112026073934_WEB.xml
-LLOYDSME,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552517_17102025062819_WEB.xml
 LLOYDSME,shareholding-xbrl,NSE's link for the 2025-10-21 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1557429_27102025030949_WEB.xml
 LLOYDSME,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596703_08012026031801_WEB.xml
 LLOYDSME,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1681104_12062026030018_WEB.xml
@@ -4456,8 +4357,6 @@ LTM,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL f
 LTM,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655112_20042026045943_WEB.xml
 LTM,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695519_17072026055202_WEB.xml
 LTM,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743015_21102026043212_WEB.xml
-LTTS,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552501_17102025062437_WEB.xml
-LTTS,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552500_17102025062401_WEB.xml
 LTTS,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1601617_15012026045011_WEB.xml
 LTTS,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1601635_15012026050110_WEB.xml
 LTTS,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1601622_15012026045243_WEB.xml
@@ -4485,7 +4384,6 @@ LUPIN,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside 
 LUPIN,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709477_06082026102606_WEB.xml
 LUPIN,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752380_04112026013306_WEB.xml
 LUPIN,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752379_04112026013259_WEB.xml
-LUPIN,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551887_17102025040212_WEB.xml
 LUPIN,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605603_20012026041357_WEB.xml
 LUPIN,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655255_20042026054102_WEB.xml
 LUPIN,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698021_21072026020405_WEB.xml
@@ -4515,7 +4413,6 @@ M&MFIN,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 M&MFIN,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1698704_21072026064856_WEB.xml
 M&MFIN,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1743640_21102026104057_WEB.xml
 M&MFIN,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1743639_21102026104050_WEB.xml
-M&MFIN,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552988_17102025105411_WEB.xml
 M&MFIN,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602875_16012026074456_WEB.xml
 M&MFIN,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654970_20042026035750_WEB.xml
 M&MFIN,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693203_15072026040558_WEB.xml
@@ -4630,8 +4527,8 @@ MAZDOCK,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XB
 MAZDOCK,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655527_20042026072527_WEB.xml
 MAZDOCK,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696530_20072026123811_WEB.xml
 MAZDOCK,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740106_16102026050154_WEB.xml
-MCX,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-17
-MCX,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-17
+MCX,results-xbrl,NSE lists no results-xbrl filing made public since 2025-10-18
+MCX,shareholding-xbrl,NSE lists no shareholding-xbrl filing made public since 2025-10-18
 MEDANTA,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1568483_07112025072531_WEB.xml
 MEDANTA,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1568480_07112025072417_WEB.xml
 MEDANTA,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1618009_04022026040529_WEB.xml
@@ -4743,7 +4640,6 @@ MOTHERSON,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 MOTHERSON,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709039_06082026044855_WEB.xml
 MOTHERSON,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754223_05112026083544_WEB.xml
 MOTHERSON,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754220_05112026083435_WEB.xml
-MOTHERSON,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552060_17102025044631_WEB.xml
 MOTHERSON,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606143_20012026064430_WEB.xml
 MOTHERSON,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646996_07042026082014_WEB.xml
 MOTHERSON,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695144_17072026033810_WEB.xml
@@ -4778,7 +4674,6 @@ MPHASIS,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsid
 MPHASIS,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1700450_23072026115708_WEB.xml
 MPHASIS,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754415_05112026115445_WEB.xml
 MPHASIS,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754414_05112026115428_WEB.xml
-MPHASIS,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552713_17102025070929_WEB.xml
 MPHASIS,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602802_16012026065833_WEB.xml
 MPHASIS,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654432_19042026104311_WEB.xml
 MPHASIS,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694166_16072026035531_WEB.xml
@@ -4793,7 +4688,6 @@ MRF,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 MRF,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1711650_11082026035120_WEB.xml
 MRF,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1755857_10112026051801_WEB.xml
 MRF,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1755856_10112026051755_WEB.xml
-MRF,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551499_17102025020308_WEB.xml
 MRF,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603652_19012026102803_WEB.xml
 MRF,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649781_13042026034537_WEB.xml
 MRF,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697696_21072026100150_WEB.xml
@@ -4828,7 +4722,6 @@ MTARTECH,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside
 MTARTECH,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1704359_29072026063925_WEB.xml
 MTARTECH,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1704358_29072026063918_WEB.xml
 MTARTECH,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1749013_29102026052922_WEB.xml
-MTARTECH,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552225_17102025052518_WEB.xml
 MTARTECH,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1626961_17022026034715_WEB.xml
 MTARTECH,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649953_13042026050429_WEB.xml
 MTARTECH,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695497_17072026054400_WEB.xml
@@ -4906,7 +4799,6 @@ NAUKRI,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 NAUKRI,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1710997_10082026042033_WEB.xml
 NAUKRI,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747783_28102026044327_WEB.xml
 NAUKRI,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747782_28102026044245_WEB.xml
-NAUKRI,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551777_17102025033729_WEB.xml
 NAUKRI,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603728_19012026112714_WEB.xml
 NAUKRI,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654599_20042026115924_WEB.xml
 NAUKRI,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697876_21072026123605_WEB.xml
@@ -4989,7 +4881,6 @@ NETWEB,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside i
 NETWEB,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1668217_16052026103806_WEB.xml
 NETWEB,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1702930_28072026033426_WEB.xml
 NETWEB,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1745357_24102026043613_WEB.xml
-NETWEB,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552010_17102025043429_WEB.xml
 NETWEB,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602275_16012026035144_WEB.xml
 NETWEB,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648051_09042026042759_WEB.xml
 NETWEB,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695197_17072026040223_WEB.xml
@@ -5004,7 +4895,6 @@ NEULANDLAB,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 NEULANDLAB,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1708489_05082026060411_WEB.xml
 NEULANDLAB,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751866_03112026045339_WEB.xml
 NEULANDLAB,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751860_03112026045148_WEB.xml
-NEULANDLAB,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551060_17102025100929_WEB.xml
 NEULANDLAB,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596083_07012026035607_WEB.xml
 NEULANDLAB,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649252_11042026113922_WEB.xml
 NEULANDLAB,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696377_20072026085555_WEB.xml
@@ -5104,7 +4994,6 @@ NTPC,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 NTPC,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1701290_24072026084847_WEB.xml
 NTPC,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750687_31102026042616_WEB.xml
 NTPC,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750686_31102026042609_WEB.xml
-NTPC,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551674_17102025031404_WEB.xml
 NTPC,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600995_14012026055347_WEB.xml
 NTPC,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651378_15042026041205_WEB.xml
 NTPC,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1703673_29072026123744_WEB.xml
@@ -5134,7 +5023,6 @@ NUVAMA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 NUVAMA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1705634_30072026080353_WEB.xml
 NUVAMA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1754758_06112026042628_WEB.xml
 NUVAMA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1754753_06112026042506_WEB.xml
-NUVAMA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551873_17102025035837_WEB.xml
 NUVAMA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606191_20012026070232_WEB.xml
 NUVAMA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651532_15042026053642_WEB.xml
 NUVAMA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695272_17072026042928_WEB.xml
@@ -5164,7 +5052,6 @@ NYKAA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside 
 NYKAA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1707759_04082026060223_WEB.xml
 NYKAA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752762_04112026053637_WEB.xml
 NYKAA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752759_04112026053602_WEB.xml
-NYKAA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552819_17102025073844_WEB.xml
 NYKAA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606240_20012026071553_WEB.xml
 NYKAA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653695_17042026073712_WEB.xml
 NYKAA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697378_20072026064645_WEB.xml
@@ -5183,8 +5070,6 @@ OBEROIRLTY,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its
 OBEROIRLTY,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651304_15042026033402_WEB.xml
 OBEROIRLTY,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691716_13072026063733_WEB.xml
 OBEROIRLTY,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742378_20102026081828_WEB.xml
-OFSS,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552937_17102025090422_WEB.xml
-OFSS,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552936_17102025090342_WEB.xml
 OFSS,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1607759_21012026084222_WEB.xml
 OFSS,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1607758_21012026084154_WEB.xml
 OFSS,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1657437_22042026090725_WEB.xml
@@ -5212,7 +5097,6 @@ OIL,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside it
 OIL,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1710189_07082026075213_WEB.xml
 OIL,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756684_12112026055839_WEB.xml
 OIL,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756683_12112026055832_WEB.xml
-OIL,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551671_17102025031354_WEB.xml
 OIL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606770_21012026012045_WEB.xml
 OIL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1721627_04092026085126_WEB.xml
 OIL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696989_20072026045300_WEB.xml
@@ -5341,8 +5225,6 @@ PAYTM,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL
 PAYTM,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650570_14042026032846_WEB.xml
 PAYTM,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693686_15072026082404_WEB.xml
 PAYTM,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737329_14102026080305_WEB.xml
-PCBL,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552419_17102025060747_WEB.xml
-PCBL,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552410_17102025060645_WEB.xml
 PCBL,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1617229_03022026051812_WEB.xml
 PCBL,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1617228_03022026051804_WEB.xml
 PCBL,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1662559_30042026075232_WEB.xml
@@ -5453,7 +5335,6 @@ PIDILITIND,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 PIDILITIND,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1707695_04082026053354_WEB.xml
 PIDILITIND,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748241_28102026081451_WEB.xml
 PIDILITIND,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1748238_28102026081417_WEB.xml
-PIDILITIND,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552361_17102025055620_WEB.xml
 PIDILITIND,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606227_20012026071128_WEB.xml
 PIDILITIND,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653375_17042026053100_WEB.xml
 PIDILITIND,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697305_20072026062509_WEB.xml
@@ -5552,8 +5433,6 @@ POLICYBZR,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its 
 POLICYBZR,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656670_21042026070814_WEB.xml
 POLICYBZR,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696865_20072026040936_WEB.xml
 POLICYBZR,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743089_21102026045244_WEB.xml
-POLYCAB,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552465_17102025061553_WEB.xml
-POLYCAB,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552462_17102025061529_WEB.xml
 POLYCAB,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602515_16012026051416_WEB.xml
 POLYCAB,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602514_16012026051409_WEB.xml
 POLYCAB,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1664066_06052026044749_WEB.xml
@@ -5583,8 +5462,6 @@ POLYMED,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XB
 POLYMED,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682456_18062026031936_WEB.xml
 POLYMED,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698448_21072026051900_WEB.xml
 POLYMED,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741316_19102026015553_WEB.xml
-POONAWALLA,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1552938_17102025090525_WEB.xml
-POONAWALLA,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1552927_17102025085751_WEB.xml
 POONAWALLA,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1602790_16012026065306_WEB.xml
 POONAWALLA,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1602795_16012026065406_WEB.xml
 POONAWALLA,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1663857_05052026083608_WEB.xml
@@ -5633,7 +5510,6 @@ PPLPHARMA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 PPLPHARMA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1704574_29072026085615_WEB.xml
 PPLPHARMA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747277_27102026091803_WEB.xml
 PPLPHARMA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747272_27102026091408_WEB.xml
-PPLPHARMA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551721_17102025032408_WEB.xml
 PPLPHARMA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605746_20012026045511_WEB.xml
 PPLPHARMA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654598_20042026115851_WEB.xml
 PPLPHARMA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697240_20072026060616_WEB.xml
@@ -5700,8 +5576,6 @@ PTCIL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL
 PTCIL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697764_21072026111837_WEB.xml
 PTCIL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742714_21102026021404_WEB.xml
 PTCIL,shareholding-xbrl,NSE's link for the 2026-10-09 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740713_17102026024245_WEB.xml
-PVRINOX,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552548_17102025063634_WEB.xml
-PVRINOX,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552545_17102025063617_WEB.xml
 PVRINOX,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1619515_05022026071817_WEB.xml
 PVRINOX,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1619514_05022026071810_WEB.xml
 PVRINOX,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1665729_11052026090236_WEB.xml
@@ -5787,7 +5661,6 @@ RAMCOCEM,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 RAMCOCEM,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709999_07082026061517_WEB.xml
 RAMCOCEM,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753851_05112026061247_WEB.xml
 RAMCOCEM,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753850_05112026061241_WEB.xml
-RAMCOCEM,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551542_17102025022449_WEB.xml
 RAMCOCEM,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598398_12012026113218_WEB.xml
 RAMCOCEM,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648444_10042026110631_WEB.xml
 RAMCOCEM,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691186_13072026121206_WEB.xml
@@ -5807,8 +5680,6 @@ RBLBANK,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XB
 RBLBANK,shareholding-xbrl,NSE's link for the 2026-06-18 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682623_18062026094002_WEB.xml
 RBLBANK,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689496_08072026091022_WEB.xml
 RBLBANK,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734526_08102026062818_WEB.xml
-RECLTD,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1552920_17102025085118_WEB.xml
-RECLTD,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1552918_17102025085034_WEB.xml
 RECLTD,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1613512_29012026064158_WEB.xml
 RECLTD,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1617027_03022026033238_WEB.xml
 RECLTD,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1613511_29012026064137_WEB.xml
@@ -5839,8 +5710,6 @@ REDINGTON,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its 
 REDINGTON,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653271_17042026044249_WEB.xml
 REDINGTON,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690559_10072026052427_WEB.xml
 REDINGTON,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738776_15102026030911_WEB.xml
-RELIANCE,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552809_17102025073643_WEB.xml
-RELIANCE,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552804_17102025073600_WEB.xml
 RELIANCE,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602862_16012026073821_WEB.xml
 RELIANCE,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602861_16012026073814_WEB.xml
 RELIANCE,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1658776_24042026105714_WEB.xml
@@ -5849,7 +5718,6 @@ RELIANCE,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 RELIANCE,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1695739_17072026074906_WEB.xml
 RELIANCE,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750537_30102026093254_WEB.xml
 RELIANCE,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750535_30102026093155_WEB.xml
-RELIANCE,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552885_17102025081647_WEB.xml
 RELIANCE,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607627_21012026071311_WEB.xml
 RELIANCE,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655961_21042026012504_WEB.xml
 RELIANCE,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694620_16072026072434_WEB.xml
@@ -5912,7 +5780,6 @@ RPOWER,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside
 RPOWER,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1709406_06082026081119_WEB.xml
 RPOWER,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756997_12112026085137_WEB.xml
 RPOWER,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1756995_12112026085037_WEB.xml
-RPOWER,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552967_17102025100212_WEB.xml
 RPOWER,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603555_17012026083047_WEB.xml
 RPOWER,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653728_17042026080857_WEB.xml
 RPOWER,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695680_17072026071430_WEB.xml
@@ -5992,7 +5859,6 @@ SAIL,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 SAIL,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1701133_24072026065125_WEB.xml
 SAIL,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747255_27102026084401_WEB.xml
 SAIL,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1747254_27102026084343_WEB.xml
-SAIL,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552023_17102025043928_WEB.xml
 SAIL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604279_19012026042113_WEB.xml
 SAIL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655023_20042026042310_WEB.xml
 SAIL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695371_17072026050422_WEB.xml
@@ -6022,7 +5888,6 @@ SAMMAANCAP,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 SAMMAANCAP,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1714000_13082026074200_WEB.xml
 SAMMAANCAP,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1758396_14112026053314_WEB.xml
 SAMMAANCAP,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1758397_14112026053320_WEB.xml
-SAMMAANCAP,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552542_17102025063512_WEB.xml
 SAMMAANCAP,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606771_21012026012106_WEB.xml
 SAMMAANCAP,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646950_07042026065313_WEB.xml
 SAMMAANCAP,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655236_20042026053729_WEB.xml
@@ -6066,7 +5931,6 @@ SBICARD,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside 
 SBICARD,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1659723_27042026073820_WEB.xml
 SBICARD,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1701158_24072026070029_WEB.xml
 SBICARD,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1745092_23102026082831_WEB.xml
-SBICARD,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552360_17102025055559_WEB.xml
 SBICARD,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605363_20012026022836_WEB.xml
 SBICARD,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653306_17042026045859_WEB.xml
 SBICARD,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696400_20072026104456_WEB.xml
@@ -6175,7 +6039,6 @@ SHRIRAMFIN,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 SHRIRAMFIN,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1700652_24072026025209_WEB.xml
 SHRIRAMFIN,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1744699_23102026044345_WEB.xml
 SHRIRAMFIN,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1744698_23102026044339_WEB.xml
-SHRIRAMFIN,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552080_17102025045216_WEB.xml
 SHRIRAMFIN,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605258_20012026011003_WEB.xml
 SHRIRAMFIN,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653167_17042026040441_WEB.xml
 SHRIRAMFIN,shareholding-xbrl,NSE's link for the 2026-04-08 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647253_08042026025126_WEB.xml
@@ -6243,8 +6106,6 @@ SJVN,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL 
 SJVN,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646772_07042026050727_WEB.xml
 SJVN,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689731_09072026033620_WEB.xml
 SJVN,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734117_08102026114024_WEB.xml
-SOBHA,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552820_17102025073918_WEB.xml
-SOBHA,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552818_17102025073833_WEB.xml
 SOBHA,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602616_16012026054805_WEB.xml
 SOBHA,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602608_16012026054617_WEB.xml
 SOBHA,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1663419_04052026074555_WEB.xml
@@ -6308,7 +6169,6 @@ STARHEALTH,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outsi
 STARHEALTH,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/IF_INS_COM_IND_AS_19799_WebXMLFile_20261027_212844922.xml
 STARHEALTH,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/IF_INS_COM_IND_AS_19799_WebXMLFile_20261027_213005574.xml
 STARHEALTH,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/IF_INS_COM_IND_AS_19799_WebXMLFile_20261112_133324847.xml
-STARHEALTH,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552037_17102025044301_WEB.xml
 STARHEALTH,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600046_13012026053721_WEB.xml
 STARHEALTH,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653386_17042026053652_WEB.xml
 STARHEALTH,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1703026_28072026041906_WEB.xml
@@ -6439,7 +6299,6 @@ SWANCORP,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 SWANCORP,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1713839_13082026064238_WEB.xml
 SWANCORP,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752961_04112026065423_WEB.xml
 SWANCORP,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1752960_04112026065337_WEB.xml
-SWANCORP,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552761_17102025072229_WEB.xml
 SWANCORP,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601878_16012026104024_WEB.xml
 SWANCORP,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647152_08042026124052_WEB.xml
 SWANCORP,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693250_15072026042636_WEB.xml
@@ -6627,8 +6486,6 @@ TATASTEEL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its 
 TATASTEEL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655524_20042026072320_WEB.xml
 TATASTEEL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697643_20072026103745_WEB.xml
 TATASTEEL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741178_19102026114757_WEB.xml
-TATATECH,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552077_17102025045038_WEB.xml
-TATATECH,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552073_17102025044927_WEB.xml
 TATATECH,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602595_16012026054310_WEB.xml
 TATATECH,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1602592_16012026054212_WEB.xml
 TATATECH,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1663345_04052026060334_WEB.xml
@@ -6654,7 +6511,6 @@ TBOTEK,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside i
 TBOTEK,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751559_02112026103924_WEB.xml
 TBOTEK,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751558_02112026103835_WEB.xml
 TBOTEK,shareholding-xbrl,NSE's link for the 2025-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1594615_02012026102400_WEB.xml
-TBOTEK,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552099_17102025045543_WEB.xml
 TBOTEK,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606619_21012026120137_WEB.xml
 TBOTEK,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655357_20042026062237_WEB.xml
 TBOTEK,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698569_21072026055730_WEB.xml
@@ -6726,15 +6582,12 @@ TEGA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 TEGA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1713951_13082026072350_WEB.xml
 TEGA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753493_05112026032625_WEB.xml
 TEGA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753491_05112026032537_WEB.xml
-TEGA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552728_17102025071351_WEB.xml
 TEGA,shareholding-xbrl,NSE's link for the 2025-11-28 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1583291_05122025065953_WEB.xml
 TEGA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605304_20012026013127_WEB.xml
 TEGA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653467_17042026061513_WEB.xml
 TEGA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696596_20072026013003_WEB.xml
 TEGA,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736007_12102026025059_WEB.xml
 TEGA,shareholding-xbrl,NSE's link for the 2026-10-15 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1749806_30102026032918_WEB.xml
-TEJASNET,results-xbrl,NSE's link for the 2025-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552866_17102025075837_WEB.xml
-TEJASNET,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1552852_17102025075410_WEB.xml
 TEJASNET,results-xbrl,NSE's link for the 2025-12-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1597939_09012026074549_WEB.xml
 TEJASNET,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1597936_09012026074106_WEB.xml
 TEJASNET,results-xbrl,NSE's link for the 2026-03-31 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1651786_15042026113216_WEB.xml
@@ -6847,7 +6700,6 @@ TITAN,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside 
 TITAN,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1710083_07082026064325_WEB.xml
 TITAN,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754035_05112026071123_WEB.xml
 TITAN,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754033_05112026071046_WEB.xml
-TITAN,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551534_17102025022253_WEB.xml
 TITAN,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606864_21012026024634_WEB.xml
 TITAN,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651245_15042026031123_WEB.xml
 TITAN,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694281_16072026043845_WEB.xml
@@ -7006,7 +6858,6 @@ UBL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL f
 UBL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651854_16042026111453_WEB.xml
 UBL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695686_17072026071639_WEB.xml
 UBL,shareholding-xbrl,NSE's link for the 2026-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736891_13102026033642_WEB.xml
-UCOBANK,results-xbrl,NSE's link for the 2025-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1552075_17102025044952_WEB.xml
 UCOBANK,results-xbrl,NSE's link for the 2025-12-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1603339_17012026043617_WEB.xml
 UCOBANK,results-xbrl,NSE's link for the 2026-03-31 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1659035_25042026081441_WEB.xml
 UCOBANK,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_BANKING_1699454_22072026055830_WEB.xml
@@ -7076,7 +6927,6 @@ UNOMINDA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outsi
 UNOMINDA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1707662_04082026051341_WEB.xml
 UNOMINDA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1753993_05112026065545_WEB.xml
 UNOMINDA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1754147_05112026075849_WEB.xml
-UNOMINDA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1552086_17102025045337_WEB.xml
 UNOMINDA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603473_17012026055950_WEB.xml
 UNOMINDA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654027_18042026022417_WEB.xml
 UNOMINDA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695885_18072026111418_WEB.xml
@@ -7346,7 +7196,6 @@ WOCKPHARMA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is out
 WOCKPHARMA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1711098_10082026052827_WEB.xml
 WOCKPHARMA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751379_02112026071126_WEB.xml
 WOCKPHARMA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1751350_02112026065436_WEB.xml
-WOCKPHARMA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551078_17102025104631_WEB.xml
 WOCKPHARMA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1634684_11032026053902_WEB.xml
 WOCKPHARMA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654851_20042026030330_WEB.xml
 WOCKPHARMA,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1704130_29072026052023_WEB.xml
@@ -7379,7 +7228,6 @@ ZEEL,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outside i
 ZEEL,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1711375_10082026080510_WEB.xml
 ZEEL,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750534_30102026092721_WEB.xml
 ZEEL,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1750533_30102026092623_WEB.xml
-ZEEL,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551850_17102025035419_WEB.xml
 ZEEL,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604406_19012026050433_WEB.xml
 ZEEL,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655020_20042026042139_WEB.xml
 ZEEL,shareholding-xbrl,NSE's link for the 2026-06-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697002_20072026045753_WEB.xml
@@ -7427,7 +7275,6 @@ ZFCVINDIA,results-xbrl,NSE's link for the 2026-06-30 consolidated filing is outs
 ZFCVINDIA,results-xbrl,NSE's link for the 2026-06-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1701111_24072026063147_WEB.xml
 ZFCVINDIA,results-xbrl,NSE's link for the 2026-09-30 consolidated filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1757634_13112026061835_WEB.xml
 ZFCVINDIA,results-xbrl,NSE's link for the 2026-09-30 standalone filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/INTEGRATED_FILING_INDAS_1757627_13112026061801_WEB.xml
-ZFCVINDIA,shareholding-xbrl,NSE's link for the 2025-09-30 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1551921_17102025041204_WEB.xml
 ZFCVINDIA,shareholding-xbrl,NSE's link for the 2025-12-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598967_12012026054306_WEB.xml
 ZFCVINDIA,shareholding-xbrl,NSE's link for the 2026-03-31 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651128_15042026125545_WEB.xml
 ZFCVINDIA,shareholding-xbrl,NSE's link for the 2026-06-25 filing is outside its XBRL folder: https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688748_07072026030246_WEB.xml
