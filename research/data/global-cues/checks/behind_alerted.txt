@@ -1,2 +1,0 @@
-nasdaq100
-vix_us
