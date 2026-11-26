@@ -100,3 +100,4 @@ fetched_at,path,url,form,sha256,size_bytes
 2026-11-25T10:25:53.036334+05:30,stoxx/indices/dax-3m/2026/11/25/102553_h_3mdax.txt,https://www.stoxx.com/document/Indices/Current/HistoricalData/h_3mdax.txt,,e0b7c6344a493c232317005aaf2ed5ad4f2855593f39356fada82d1b9507955a,1674
 2026-11-25T10:59:57.095449+05:30,stoxx/indices/dax-3m/2026/11/25/105957_h_3mdax.txt,https://www.stoxx.com/document/Indices/Current/HistoricalData/h_3mdax.txt,,e0b7c6344a493c232317005aaf2ed5ad4f2855593f39356fada82d1b9507955a,1674
 2026-11-26T00:21:51.019056+05:30,stoxx/indices/dax-3m/2026/11/26/002151_h_3mdax.txt,https://www.stoxx.com/document/Indices/Current/HistoricalData/h_3mdax.txt,,0e91f6431a39bf6d0e881f8f91fe18e385064e8a044a9b01c189d87a4d86128f,1674
+2026-11-26T09:40:30.535244+05:30,stoxx/indices/dax-3m/2026/11/26/094030_h_3mdax.txt,https://www.stoxx.com/document/Indices/Current/HistoricalData/h_3mdax.txt,,0e91f6431a39bf6d0e881f8f91fe18e385064e8a044a9b01c189d87a4d86128f,1674
