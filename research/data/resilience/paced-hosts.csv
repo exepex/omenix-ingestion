@@ -24,3 +24,5 @@ at,source,event,cool_down_seconds
 2026-11-27T05:02:18.790397+00:00,paced:cdn.cboe.com,half_open,86400.0
 2026-11-27T05:02:18.987893+00:00,paced:cdn.cboe.com,reopened,86400.0
 2026-11-28T07:59:09.250440+00:00,paced:www.nseindia.com,opened,900.0
+2026-11-28T09:28:03.690891+00:00,paced:www.nseindia.com,half_open,900.0
+2026-11-28T09:28:04.264582+00:00,paced:www.nseindia.com,closed,900.0
